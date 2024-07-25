@@ -1,6 +1,6 @@
 {
 	"name": "is-low-power-mode",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Check if the system is in low power mode",
 	"license": "MIT",
 	"repository": "sindresorhus/is-low-power-mode",
